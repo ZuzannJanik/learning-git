@@ -1,2 +1,3 @@
 Nowy fajny plik testowy
 Nowa super linijka
+Branchowy wpis
